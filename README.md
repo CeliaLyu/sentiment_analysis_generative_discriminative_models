@@ -2,7 +2,7 @@
 
 **Xiaoxi Celia Lyu, Pingcheng Jian, Jingyang Zhang
 
-Final project for ECE685D Introduction to Deep Learning, Duke University, Spring 2022. All authors contributed equally to this work.
+Final project for ECE685D Introduction to Deep Learning, Duke University, Fall 2022. All authors contributed equally to this work.
 
 
 # File description
