@@ -22,6 +22,9 @@ Final project for ECE685D Introduction to Deep Learning, Duke University, Spring
 ## Utility files
 - `data_utils.py`: Contains some functions for loading data.
 
+## Report
+- `[project]sentiment_analysis.pdf`: The PDF version of our group report. 
+
 # Required packages
 - numpy, scikit-learn, nltk, wordcloud, textblob, beautifulsoup4, spacy
 - torch, pytorch_pretrained_bert, tensorflow
